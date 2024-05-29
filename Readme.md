@@ -1,0 +1,1 @@
+# Repo to show microfrontend via single-spa
